@@ -1,6 +1,6 @@
 /* Estilização para o cabeçalho (header) */
 header {
-    background-color: #f0f0f0;
+    background-color: #312b2b;
     padding: 10px;
     text-align: center;
     margin: 0%;
@@ -37,7 +37,7 @@ header {
     line-height: 1.6;
     flex: 1;
     font-size: 18px;
-    color: #fff;
+    color: #e45454;
     padding-right: 10px;
     }
     

@@ -20,7 +20,7 @@ header {
     
     /* Estilização para o body (cor de fundo ) */
     body {
-    background-color: rgb(53, 145, 145);
+    background-color: rgb(22, 37, 37);
     }
     
     /* Estilização para o corpo principal (main) */
@@ -50,7 +50,7 @@ header {
     /* Estilização para o rodapé (footer) */
     .rodape {
     background-color: #333;
-    color: #fff;
+    color: #e04a4a;
     text-align: center;
     padding: 10px;
     position: fixed; /* ou position: absolute; */
